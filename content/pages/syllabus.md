@@ -53,14 +53,69 @@ Assessment
 
 Assessment is based on two components: six assignments and two quizzes. The relative weights associated with these components are listed here:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| {{< td-colspan 2 >}}**First Half of Semester**{{< /td-colspan >}} ||
-| Assignments 1, 2, 3 | 12.5% each |
-| Quiz 1 | 12.5% |
-| {{< td-colspan 2 >}}**Second Half of Semester**{{< /td-colspan >}} ||
-| Assignments 4, 5, 6 | 12.5% each |
-| Quiz 2 | 12.5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**First Half of Semester**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments 1, 2, 3
+{{< tdclose >}}
+{{< tdopen >}}
+12.5% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+12.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Second Half of Semester**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments 4, 5, 6
+{{< tdclose >}}
+{{< tdopen >}}
+12.5% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+12.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Instructor evaluation of student effort, independence, and engagement can also play a role in the determination of final course grades.
 
