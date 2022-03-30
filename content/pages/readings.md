@@ -40,7 +40,7 @@ Supporting Videos
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Unit I. (Numerical) Calculus; Elementary Programming Concepts (PDF - 2.6MB)]({{< baseurl >}}/resources/mit2_086s13_unit1_textbook)
+[Unit I. (Numerical) Calculus; Elementary Programming Concepts (PDF - 2.6MB)]({{< baseurl >}}/resources/mit2_086s13_unit1_textbook)
 
 *   Chapter 1: Motivation
 *   Chapter 2: Interpolation
@@ -82,7 +82,7 @@ Video of a 2.086 robot performing IR range finding and odometry. (Courtesy of Ja
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Unit II. Monte Carlo Methods (PDF - 1.9MB)]({{< baseurl >}}/resources/mit2_086s13_unit2_textbook)
+[Unit II. Monte Carlo Methods (PDF - 1.9MB)]({{< baseurl >}}/resources/mit2_086s13_unit2_textbook)
 
 *   Chapter 8: Introduction
 *   Chapter 9: Introduction to Random Variables
@@ -116,7 +116,7 @@ MATLAB
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Unit III. Linear Algebra 1: Matrices and Least Squares; Regression (PDF - 2.3MB)]({{< baseurl >}}/resources/mit2_086s13_unit3_textbook)
+[Unit III. Linear Algebra 1: Matrices and Least Squares; Regression (PDF - 2.3MB)]({{< baseurl >}}/resources/mit2_086s13_unit3_textbook)
 
 *   Chapter 15: Motivation
 *   Chapter 16: Matrices and Vectors: Definitions and Operations
@@ -154,7 +154,7 @@ Video of a 2.086 robot attempting to push a load on two different surfaces. (Cou
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Unit IV. (Numerical) Differential Equations (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_086s13_unit4_textbook)
+[Unit IV. (Numerical) Differential Equations (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_086s13_unit4_textbook)
 
 *   Chapter 20: Motivation
 *   Chapter 21: Initial Value Problems
@@ -224,7 +224,7 @@ MATLAB
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Unit VI: Nonlinear Equations (PDF)]({{< baseurl >}}/resources/mit2_086s13_unit6_textbook)
+[Unit VI: Nonlinear Equations (PDF)]({{< baseurl >}}/resources/mit2_086s13_unit6_textbook)
 
 *   Chapter 29: Newton Iteration
 
