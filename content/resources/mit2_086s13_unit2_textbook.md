@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding textbook unit 2.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/fd865317e0944f006caa101628b82699_MIT2_086S13_Unit2_Textbook.pdf
 file_type: application/pdf
+parent_uid: 13eadd1c-7d4a-4106-4930-ec5343af938b
 resourcetype: Document
 title: "Math, Numerics, and Programming (for Mechanical Engineers) Textbook \u2013\
   \ Unit 2"
